@@ -1,0 +1,13 @@
+﻿{
+  "SuperSecurePassword": "password",
+  "MySalary": 3.141592653589,
+  "AgeOfYildizTilbe": 54,
+  "MyIpAddress": {
+    "value": "127.0.0.1",
+    "type": "ip"
+  },
+  "MyUUID": {
+    "value": "127.0.0.1",
+    "type": "ip"
+  }
+}
